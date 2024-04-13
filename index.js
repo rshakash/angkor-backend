@@ -5,6 +5,7 @@ const cors = require('cors');
 const session = require('express-session');
 const {pool} = require('./dbConfig');
 const bcrypt = require('bcrypt');
+const crops = require('./crops.json');
 
 const initializePassport = require('./passportConfig');
 initializePassport(passport);
@@ -105,6 +106,11 @@ app.post('/login',
 passport.authenticate('local'), (req, res) => {
     res.json({user: req.user})
 })
+
+
+app.get('/api/crops', (req, res) => {
+    res.json(crops);
+});
 
 
 app.listen(3000, () => {

@@ -1,0 +1,112 @@
+[
+    {
+      "crop": {
+        "name": "Carrot",
+        "scientific_name": "Daucus carota",
+        "growth_period": "120-150 days",
+        "optimal_temperature": "15-20°C",
+        "optimal_ph": "6.0-6.5",
+        "description": "Carrots are a root vegetable with a crisp texture and sweet flavor. They are rich in beta-carotene, which gives them their bright orange color."
+      }
+    },
+    {
+      "crop": {
+        "name": "Potato",
+        "scientific_name": "Solanum tuberosum",
+        "growth_period": "90-120 days",
+        "optimal_temperature": "15-20°C",
+        "optimal_ph": "5.0-6.0",
+        "description": "Potatoes are a starchy, tuberous crop from the perennial nightshade Solanum tuberosum. They are a good source of carbohydrates, fiber, and vitamin C."
+      }
+    },
+    {
+      "crop": {
+        "name": "Tomato",
+        "scientific_name": "Solanum lycopersicum",
+        "growth_period": "60-100 days",
+        "optimal_temperature": "20-25°C",
+        "optimal_ph": "6.0-6.5",
+        "description": "Tomatoes are a juicy, red (although they can come in a variety of colors) fruit that are commonly used in salads, sauces, and soups. They are rich in vitamins and antioxidants."
+      }
+    },
+    {
+      "crop": {
+        "name": "Onion",
+        "scientific_name": "Allium cepa",
+        "growth_period": "100-175 days",
+        "optimal_temperature": "13-24°C",
+        "optimal_ph": "6.0-7.5",
+        "description": "Onions are a staple in many cuisines and are used to add flavor to a wide variety of dishes. They are rich in vitamins, minerals, and antioxidants."
+      }
+    },
+    {
+      "crop": {
+        "name": "Corn",
+        "scientific_name": "Zea mays",
+        "growth_period": "60-100 days",
+        "optimal_temperature": "20-30°C",
+        "optimal_ph": "6.0-7.0",
+        "description": "Corn, also known as maize, is a cereal crop that is grown widely throughout the world. It is used as a source of food, feed, and fuel."
+      }
+    },
+    {
+      "crop": {
+        "name": "Wheat",
+        "scientific_name": "Triticum spp.",
+        "growth_period": "100-150 days",
+        "optimal_temperature": "15-25°C",
+        "optimal_ph": "6.0-7.5",
+        "description": "Wheat is a cereal crop that is grown widely throughout the world. It is used as a source of food, feed, and fuel."
+      }
+    },
+    {
+      "crop": {
+        "name": "Rice",
+        "scientific_name": "Oryza sativa",
+        "growth_period": "100-150 days",
+        "optimal_temperature": "20-35°C",
+        "optimal_ph": "6.0-7.0",
+        "description": "Rice is a cereal crop that is grown widely throughout the world. It is a staple food for a large portion of the world's population."
+      }
+    },
+    {
+      "crop": {
+        "name": "Soybean",
+        "scientific_name": "Glycine max",
+        "growth_period": "90-150 days",
+        "optimal_temperature": "20-30°C",
+        "optimal_ph": "6.0-7.5",
+        "description": "Soybeans are a legume crop that is grown widely throughout the world. They are used as a source of food, feed, and fuel."
+      }
+    },
+    {
+      "crop": {
+        "name": "Cotton",
+        "scientific_name": "Gossypium spp.",
+        "growth_period": "150-200 days",
+        "optimal_temperature": "20-30°C",
+        "optimal_ph": "6.0-7.5",
+        "description": "Cotton is a fiber crop that is grown widely throughout the world. It is used to make a variety of textiles and fabrics."
+      }
+    },
+    {
+      "crop": {
+        "name": "Coffee",
+        "scientific_name": "Coffea spp.",
+        "growth_period": "2-4 years",
+        "optimal_temperature": "15-25°C",
+        "optimal_ph": "6.0-6.5",
+        "description": "Coffee is a beverage crop that is grown in tropical and subtropical regions of the world. It is one of the most popular beverages in the world."
+      }
+    },
+    {
+        "crop": {
+          "name": "Banana",
+          "scientific_name": "Musa spp.",
+          "growth_period": "9-12 months",
+          "optimal_temperature": "25-30°C",
+          "optimal_ph": "5.5-6.5",
+          "description": "Bananas are a tropical fruit that are grown in many parts of the world. They are a good source of vitamins, minerals, and fiber."
+        }
+    }
+]
