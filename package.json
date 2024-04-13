@@ -4,6 +4,8 @@
   "description": "Backend part for angkor for authentication and api hosting",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Akash Raj",
