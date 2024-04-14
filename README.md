@@ -1,5 +1,17 @@
 # Backend for byteverse hackathon project
 
+## Dependencies:
+- bcrypt
+- cookie-session
+- cors
+- dotenv
+- express
+- express-session
+- passport
+- passport-local
+- pg
+- nodemon
+
 ## Installation Steps:
 
 Clone the repo
